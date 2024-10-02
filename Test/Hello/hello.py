@@ -7,5 +7,4 @@
 # 查看类的层级关系 ctrl +H
 # 查找ctrl + f
 # 替换ctrl + r
-print("hi, python")
-
+print("test on Github")
