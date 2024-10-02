@@ -8,8 +8,4 @@
 # 查找ctrl + f
 # 替换ctrl + r
 print("hi, python")
-print("hi, python")
 
-print("hi, python")
-print("hi, python")
-print("hi, python")
